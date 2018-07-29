@@ -3,7 +3,7 @@ package analisispi;
 
 /**
  * Calculadora de valores de PI por método de Euler (1) y Leibniz (2) 
- * @author Jorge Gantiva Ochoa
+ * @author Jorge Gantiva, Andrés Rodriguez y Andrea Castellanos
  */
 public class PiFormulaCalculator {
     

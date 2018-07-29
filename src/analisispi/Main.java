@@ -2,7 +2,7 @@ package analisispi;
 
 /**
  * Clase de inicio del programa
- * @author Jorge Eliecer Gantiva Ochoa
+ * @author Jorge Gantiva, Andrés Rodriguez y Andrea Castellanos
  */
 public class Main {
 
